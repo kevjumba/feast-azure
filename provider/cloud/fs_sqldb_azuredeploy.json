@@ -68,7 +68,7 @@
             "metadata": {
                 "description": "description"
             },
-            "defaultValue": "Standard_DS3_v2"
+            "defaultValue": "Standard_B1ms"
         },
         "roleDefinitionID": {
             "type": "string",
